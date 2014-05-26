@@ -81,4 +81,14 @@ Radix Mobile Ad SDK
     
     a. A Twitter, Facebook or Google account to sign in.. 
     b. A Paypal sandboxed personal account to get payouts!  
+
+10. How can I run the sample without building it? 
+
+ All you have to do is to download the GrowMobSample.apk (GPS enabled) into your Android device to install it! 
+
+ You can find it under Android/SignedSampleAPK folder.. 
+
+ And as a side note, your current geographic location must match the targeted location of your campaigns to be able to see displayed ads in that region! 
+
+
     
