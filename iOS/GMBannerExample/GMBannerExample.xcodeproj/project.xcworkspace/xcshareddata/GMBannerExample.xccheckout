@@ -5,46 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>99B65849-1F2D-489F-9545-934687E631EC</string>
+	<string>D0319AB5-3A8A-46EF-9994-9A1B20D30E12</string>
 	<key>IDESourceControlProjectName</key>
 	<string>GMBannerExample</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>7F631B2C-5094-4079-AE1F-42F0F182107C</key>
-		<string>https://github.com/GrowMob/GMBannerExample.git</string>
+		<key>1F56DC2E-4409-471A-AA60-B2ACFE71FBFC</key>
+		<string>https://github.com/GrowMob/RadixAdSDK.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>GMBannerExample.xcodeproj/project.xcworkspace</string>
+	<string>iOS/GMBannerExample/GMBannerExample.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>186C0913-EDBE-48EE-A9EB-02BAECAD27EE</key>
-		<string>../../../iOSSDK</string>
-		<key>7F631B2C-5094-4079-AE1F-42F0F182107C</key>
-		<string>../..</string>
+		<key>1F56DC2E-4409-471A-AA60-B2ACFE71FBFC</key>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/GrowMob/GMBannerExample.git</string>
+	<string>https://github.com/GrowMob/RadixAdSDK.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7F631B2C-5094-4079-AE1F-42F0F182107C</string>
+	<string>1F56DC2E-4409-471A-AA60-B2ACFE71FBFC</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>7F631B2C-5094-4079-AE1F-42F0F182107C</string>
+			<string>1F56DC2E-4409-471A-AA60-B2ACFE71FBFC</string>
 			<key>IDESourceControlWCCName</key>
-			<string>GMBannerExample</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>186C0913-EDBE-48EE-A9EB-02BAECAD27EE</string>
-			<key>IDESourceControlWCCName</key>
-			<string>iOSSDK</string>
+			<string>RadixAdSDK</string>
 		</dict>
 	</array>
 </dict>
