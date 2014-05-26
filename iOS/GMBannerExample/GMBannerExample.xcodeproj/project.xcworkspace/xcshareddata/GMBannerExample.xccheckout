@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>99B65849-1F2D-489F-9545-934687E631EC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GMBannerExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7F631B2C-5094-4079-AE1F-42F0F182107C</key>
+		<string>https://github.com/GrowMob/GMBannerExample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GMBannerExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>186C0913-EDBE-48EE-A9EB-02BAECAD27EE</key>
+		<string>../../../iOSSDK</string>
+		<key>7F631B2C-5094-4079-AE1F-42F0F182107C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/GrowMob/GMBannerExample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7F631B2C-5094-4079-AE1F-42F0F182107C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7F631B2C-5094-4079-AE1F-42F0F182107C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GMBannerExample</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>186C0913-EDBE-48EE-A9EB-02BAECAD27EE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSSDK</string>
+		</dict>
+	</array>
+</dict>
+</plist>

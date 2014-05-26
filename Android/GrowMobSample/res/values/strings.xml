@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GrowMobSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="under_here">here len</string>
+    <string name="hello_world">This is a test ad! </string>
+
+</resources>
