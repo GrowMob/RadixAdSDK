@@ -3,7 +3,7 @@ Radix Ad SDK
 
 Radix Mobile Ad SDK
 
-   You can follow the instructions and the given sample to monetize your Android/iOS app easily. 
+   You can follow the instructions and the given sample to monetize/promote your Android/iOS app easily by signing in at https://growmob.heroku.com 
 
 1. Android 
 
